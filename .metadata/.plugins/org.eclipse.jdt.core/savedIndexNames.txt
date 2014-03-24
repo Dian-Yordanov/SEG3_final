@@ -1,0 +1,9 @@
+INDEX VERSION 1.126+C:\Users\Xelnect\Desktop\SEG3 final\.metadata\.plugins\org.eclipse.jdt.core
+2495644260.index
+4054669516.index
+252408364.index
+596442733.index
+2209830741.index
+1547457150.index
+2879379019.index
+3763208230.index
